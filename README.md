@@ -1,6 +1,6 @@
 # 😎 CentOS_Proxi
 
-![Repo Boyutu](https://img.shields.io/github/repo-size/keyiflerolsun/CentOS_Proxi) ![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/keyiflerolsun/CentOS_Proxi&title=Profile%20Views)
+![Repo Boyutu](https://img.shields.io/github/repo-size/projeman/CentOS_Proxi) ![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/projeman/CentOS_Proxi&title=Profile%20Views)
 
 **CentOS v7 Sunucunuzu Proxy Server'a Dönüştürün**
 
@@ -9,7 +9,7 @@
 ## 🚀 Kullanım
 
 ```bash
-wget https://raw.githubusercontent.com/keyiflerolsun/CentOS_Proxi/main/CentOS_Proxi.sh --no-check-certificate --no-cache --no-cookies
+wget https://raw.githubusercontent.com/projeman/CentOS_Proxi/main/CentOS_Proxi.sh --no-check-certificate --no-cache --no-cookies
 
 # Proxy Kullanıcı Adı ve Şifresi Dosyanın En Üstünde Tanımlıdır..
 
@@ -30,7 +30,7 @@ Kaç adet IPv6 proxy oluşturmak istiyorsunuz? Örnek 500 :
 ```
          Proxyler Hazır! Format » IP:PORT:KULLANICI:SIFRE
 
- IPv6 Zip İndirme Bağlantısı: https://file.io/t5Ysvv5yMIkL
+ IPv6 Zip İndirme Bağlantısı: https://filebin.net/t5Ysvv5yMIkL
  IPv6 Zip Şifresi: RnzNy
 
  IPv4   Proxy » 45.77.88.54:3310:tarak:kurek
@@ -51,7 +51,7 @@ Kaç adet IPv6 proxy oluşturmak istiyorsunuz? Örnek 500 :
 ## 🌐 Telif Hakkı ve Lisans
 
 - _Copyright (C) 2022 by_ [keyiflerolsun](https://github.com/keyiflerolsun) ❤️️
-- [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/keyiflerolsun/CentOS_Proxi/blob/main/LICENSE) _Koşullarına göre lisanslanmıştır.._
+- [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/projeman/CentOS_Proxi/blob/main/LICENSE) _Koşullarına göre lisanslanmıştır.._
 
 ## ♻️ İletişim
 
