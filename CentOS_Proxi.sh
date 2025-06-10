@@ -139,7 +139,8 @@ file_io_yukle() {
 
     local PASS=$(rastgele)
     zip --password $PASS proxy.zip proxy.txt           # -qq
-    JSON=$(curl -sF "file=@proxy.zip" https://file.io)
+    #JSON=$(curl -sF "file=@proxy.zip" https://file.io)
+    JSON=$(curl -s -H "filename: proxy.zip" -F "file=@proxy.zip" https://filebin.net)
     URL=$(echo "$JSON" | jq --raw-output '.link')
 
     clear
